@@ -11,7 +11,7 @@ body {
 
 #task-box {
      outline: none;
-     color: rgb(23, 200, 13);
+     color: rgb(230, 12, 12);
      text-align: left;
      font-size: 1.5rem;
      width: 450px;
@@ -103,7 +103,7 @@ body {
 }
 
 #main-task:not(:read-only) {
-     color: gray;
+     color: rgb(212, 189, 16);
 }
 
 .done-text {
@@ -120,5 +120,5 @@ body {
      text-align: center;
      font-size: 1.2rem;
      font-weight: bolder;
-     color: white;
+     color: rgb(21, 27, 201);
 }
